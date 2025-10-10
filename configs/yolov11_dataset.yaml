@@ -1,0 +1,5 @@
+train: ../data/dataset/data/train/images
+val: ../data/dataset/data/val/images
+
+nc: 1
+names: ['esophagus_opening']
