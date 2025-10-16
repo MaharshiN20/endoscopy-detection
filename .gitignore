@@ -1,3 +1,6 @@
+# UNet model files (too large for GitHub)
+src/outputs/u_net/**/*.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
